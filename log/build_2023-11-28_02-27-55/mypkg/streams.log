@@ -1,0 +1,22 @@
+[1.097s] Invoking command in '/home/natsumi/ros2_ws/src/mypkg': PYTHONPATH=/home/natsumi/ros2_ws/build/mypkg/prefix_override:/home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/natsumi/ros2_ws/build/mypkg/build install --record /home/natsumi/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[1.306s] running egg_info
+[1.306s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[1.306s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[1.306s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[1.307s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[1.307s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[1.342s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.342s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[1.343s] running build
+[1.343s] running build_py
+[1.346s] running install
+[1.349s] running install_lib
+[1.349s] running install_data
+[1.349s] running install_egg_info
+[1.350s] removing '/home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[1.350s] Copying ../../build/mypkg/mypkg.egg-info to /home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[1.350s] running install_scripts
+[1.365s] Installing listener script to /home/natsumi/ros2_ws/install/mypkg/lib/mypkg
+[1.365s] Installing talker script to /home/natsumi/ros2_ws/install/mypkg/lib/mypkg
+[1.365s] writing list of installed files to '/home/natsumi/ros2_ws/build/mypkg/install.log'
+[1.384s] Invoked command in '/home/natsumi/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/natsumi/ros2_ws/build/mypkg/prefix_override:/home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/natsumi/ros2_ws/build/mypkg/build install --record /home/natsumi/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed

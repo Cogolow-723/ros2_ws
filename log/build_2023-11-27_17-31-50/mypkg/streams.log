@@ -1,0 +1,33 @@
+[0.539s] Invoking command in '/home/natsumi/ros2_ws/src/mypkg': PYTHONPATH=/home/natsumi/ros2_ws/build/mypkg/prefix_override:/home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/natsumi/ros2_ws/build/mypkg/build install --record /home/natsumi/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[0.651s] running egg_info
+[0.652s] creating ../../build/mypkg/mypkg.egg-info
+[0.652s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.652s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.652s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.652s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.652s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.653s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.672s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.673s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.673s] running build
+[0.673s] running build_py
+[0.673s] creating /home/natsumi/ros2_ws/build/mypkg/build
+[0.673s] creating /home/natsumi/ros2_ws/build/mypkg/build/lib
+[0.673s] creating /home/natsumi/ros2_ws/build/mypkg/build/lib/mypkg
+[0.673s] copying mypkg/__init__.py -> /home/natsumi/ros2_ws/build/mypkg/build/lib/mypkg
+[0.673s] running install
+[0.674s] running install_lib
+[0.675s] creating /home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg
+[0.675s] copying /home/natsumi/ros2_ws/build/mypkg/build/lib/mypkg/__init__.py -> /home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg
+[0.675s] byte-compiling /home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg/__init__.py to __init__.cpython-38.pyc
+[0.676s] running install_data
+[0.676s] creating /home/natsumi/ros2_ws/install/mypkg/share/ament_index
+[0.677s] creating /home/natsumi/ros2_ws/install/mypkg/share/ament_index/resource_index
+[0.677s] creating /home/natsumi/ros2_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.677s] copying resource/mypkg -> /home/natsumi/ros2_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.677s] copying package.xml -> /home/natsumi/ros2_ws/install/mypkg/share/mypkg
+[0.677s] running install_egg_info
+[0.678s] Copying ../../build/mypkg/mypkg.egg-info to /home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.678s] running install_scripts
+[0.690s] writing list of installed files to '/home/natsumi/ros2_ws/build/mypkg/install.log'
+[0.704s] Invoked command in '/home/natsumi/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/natsumi/ros2_ws/build/mypkg/prefix_override:/home/natsumi/ros2_ws/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/natsumi/ros2_ws/build/mypkg/build install --record /home/natsumi/ros2_ws/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
